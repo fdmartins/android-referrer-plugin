@@ -1,1 +1,21 @@
-
+{
+  "name": "android-referrer-plugin",
+  "version": "1.0.0",
+  "description": "Android Referrer",
+  "cordova": {
+    "id": "cordova-plugin-android-referrer",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fdmartins/android-referrer-plugin.git"
+  },
+  "keywords": [
+    "cordova",
+  ],
+  "author": "Dan Wilson",
+  "license": "MIT",
+  "types": ""
+}
